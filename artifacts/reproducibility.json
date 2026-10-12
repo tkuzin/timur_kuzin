@@ -1,0 +1,46 @@
+{
+  "small": {
+    "equal": true,
+    "counts": {
+      "users": 50,
+      "categories": 5,
+      "tickets": 300,
+      "comments": 900
+    },
+    "input_sha256": "5afd42f8d72aa14d35d158399e72c03843962e4324b99aa3c658b91f1cdfd74f",
+    "database_md5_first": {
+      "users": "a31b541b0c1f02b62fa6b7091cc47bdf",
+      "categories": "288d8acc673ab77d140c07b8c1554a4d",
+      "tickets": "f84b7b5d448d48f2a60f356b922855ed",
+      "comments": "224c322678fe0ef0255ec5b2d499be6a"
+    },
+    "database_md5_second": {
+      "users": "a31b541b0c1f02b62fa6b7091cc47bdf",
+      "categories": "288d8acc673ab77d140c07b8c1554a4d",
+      "tickets": "f84b7b5d448d48f2a60f356b922855ed",
+      "comments": "224c322678fe0ef0255ec5b2d499be6a"
+    }
+  },
+  "work": {
+    "equal": true,
+    "counts": {
+      "users": 3000,
+      "categories": 10,
+      "tickets": 50000,
+      "comments": 150000
+    },
+    "input_sha256": "0438e66f16ebfc62f6ca9e05b34e997118580b2a8e2d185a7a35a10dc9f73895",
+    "database_md5_first": {
+      "users": "c35e2849ab33869a2ab19df57637b935",
+      "categories": "75cc5a3b09492314301085ac183f592d",
+      "tickets": "543d43b9c3e1cd7e32ae8c7d7491ccc7",
+      "comments": "0ab471e29698c29faf103f2214c104d7"
+    },
+    "database_md5_second": {
+      "users": "c35e2849ab33869a2ab19df57637b935",
+      "categories": "75cc5a3b09492314301085ac183f592d",
+      "tickets": "543d43b9c3e1cd7e32ae8c7d7491ccc7",
+      "comments": "0ab471e29698c29faf103f2214c104d7"
+    }
+  }
+}

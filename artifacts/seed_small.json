@@ -1,0 +1,11 @@
+{
+  "size": "small",
+  "counts": {
+    "users": 50,
+    "categories": 5,
+    "tickets": 300,
+    "comments": 900
+  },
+  "sha256_input_rows": "5afd42f8d72aa14d35d158399e72c03843962e4324b99aa3c658b91f1cdfd74f",
+  "seed_version": 1
+}

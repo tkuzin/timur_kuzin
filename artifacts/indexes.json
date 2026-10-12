@@ -1,0 +1,22 @@
+[
+  {
+    "tablename": "users",
+    "indexname": "users_pkey",
+    "indexdef": "CREATE UNIQUE INDEX users_pkey ON timur_kuzin.users USING btree (id)"
+  },
+  {
+    "tablename": "categories",
+    "indexname": "categories_pkey",
+    "indexdef": "CREATE UNIQUE INDEX categories_pkey ON timur_kuzin.categories USING btree (id)"
+  },
+  {
+    "tablename": "tickets",
+    "indexname": "tickets_pkey",
+    "indexdef": "CREATE UNIQUE INDEX tickets_pkey ON timur_kuzin.tickets USING btree (id)"
+  },
+  {
+    "tablename": "comments",
+    "indexname": "comments_pkey",
+    "indexdef": "CREATE UNIQUE INDEX comments_pkey ON timur_kuzin.comments USING btree (id)"
+  }
+]

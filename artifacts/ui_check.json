@@ -1,0 +1,15 @@
+{
+  "ok": true,
+  "errors": [],
+  "url": "http://127.0.0.1:8080/tickets/50072",
+  "checked": [
+    "login",
+    "list",
+    "detail",
+    "summary",
+    "create",
+    "in_progress",
+    "reply",
+    "closed"
+  ]
+}

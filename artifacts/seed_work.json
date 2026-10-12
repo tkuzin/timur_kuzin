@@ -1,0 +1,11 @@
+{
+  "size": "work",
+  "counts": {
+    "users": 3000,
+    "categories": 10,
+    "tickets": 50000,
+    "comments": 150000
+  },
+  "sha256_input_rows": "0438e66f16ebfc62f6ca9e05b34e997118580b2a8e2d185a7a35a10dc9f73895",
+  "seed_version": 1
+}

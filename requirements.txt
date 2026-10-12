@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+SQLAlchemy
+psycopg[binary]
+jinja2
+python-multipart
+itsdangerous
+httpx
+pytest
